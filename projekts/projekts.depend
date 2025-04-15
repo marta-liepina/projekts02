@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743496168 source:c:\users\kitij\documents\codeblocks\projekts\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<utility>
+
